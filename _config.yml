@@ -150,3 +150,5 @@ defaults:
       stylesheet-screen-pdf: "screen-pdf.css"
       stylesheet-web: "web.css"
       stylesheet-epub: "epub.css"
+
+theme: jekyll-theme-slate
